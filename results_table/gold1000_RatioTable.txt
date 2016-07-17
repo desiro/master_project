@@ -1,0 +1,5 @@
+31 richtig	43 richtig	55 richtig	67 richtig	79 richtig	91 richtig	31 falsch	43 falsch	55 falsch	67 falsch	79 falsch	91 falsch	31 unbekannt	43 unbekannt	55 unbekannt	67 unbekannt	79 unbekannt	91 unbekannt
+MetaVelvet	0.0531	0.0057	8e-04	2e-04	0	0	0.1013	0.0314	0.0075	0.003	0.0016	0	0.8456	0.963	0.9918	0.9967	0.9984	1
+Ray Meta	7e-04	2e-04	0	0	0	0	0.0059	0.0015	2e-04	0	0	0	0.9935	0.9982	0.9998	1	1	1
+IDBA-UD	0.0018	0.0017	0.0016	0.0015	0.0014	0.0013	0.0174	0.0168	0.0166	0.0165	0.016	0.0152	0.9808	0.9815	0.9818	0.982	0.9826	0.9835
+BLAST	0.6044	0.6026	NA	NA	NA	NA	0.3886	0.3882	NA	NA	NA	NA	0.007	0.0091	NA	NA	NA	NA
